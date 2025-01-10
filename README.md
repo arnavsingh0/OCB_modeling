@@ -122,6 +122,12 @@ The Open-Closed Boundary is pivotal for understanding how solar wind energy coup
 - Identify **key controlling features** (e.g., AE index, magnetic local time) that drive boundary movements.
 - Examine **hemispheric asymmetries** and highlight the need for robust satellite coverage.
 
+Here is an example of a prediction from the Regression model:
+![alt text](images/regression_result.png)
+
+Here is an example of a prediction from the Classification model:
+![alt text](images/classification_result.png)
+
 For more in-depth explanations and results, please refer to the paper associated with this repository.
 
 ---
